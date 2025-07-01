@@ -4,6 +4,7 @@ streamlit
 numpy
 pandas
 seaborn
+opencv-python
 matplotlib
 scikit-learn
 pickle-mixin
